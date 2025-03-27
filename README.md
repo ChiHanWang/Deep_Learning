@@ -5,7 +5,7 @@ Lecturer: Prof. [Jen-Tzung Chien](https://dee.nycu.edu.tw/teachers.php?pa=getIte
 ### Assignments:
 
 - HW1: Neural Network Model
- - Feedforward Neural Network Model
- - Convolutional Neural Network Model
+  - Feedforward Neural Network Model
+  - Convolutional Neural Network Model
 
 - HW2:
